@@ -1,0 +1,63 @@
+[07-Oct-2025 13:49:54 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.1.31. in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/autoload_real.php(25): require()
+#1 /home/hotlabco/gar.hotlab.com.br/application/vendor/autoload.php(22): ComposerAutoloaderInitc3c6bc03bf675eaf30c6d20c3f93e934::getLoader()
+#2 /home/hotlabco/gar.hotlab.com.br/index.php(60): require_once('/home/hotlabco/...')
+#3 {main}
+  thrown in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php on line 22
+[07-Oct-2025 13:50:35 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.27. in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/autoload_real.php(25): require()
+#1 /home/hotlabco/gar.hotlab.com.br/application/vendor/autoload.php(22): ComposerAutoloaderInitc3c6bc03bf675eaf30c6d20c3f93e934::getLoader()
+#2 /home/hotlabco/gar.hotlab.com.br/index.php(60): require_once('/home/hotlabco/...')
+#3 {main}
+  thrown in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php on line 22
+[07-Oct-2025 13:51:26 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.27. in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/autoload_real.php(25): require()
+#1 /home/hotlabco/gar.hotlab.com.br/application/vendor/autoload.php(22): ComposerAutoloaderInitc3c6bc03bf675eaf30c6d20c3f93e934::getLoader()
+#2 /home/hotlabco/gar.hotlab.com.br/index.php(60): require_once('/home/hotlabco/...')
+#3 {main}
+  thrown in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php on line 22
+[07-Oct-2025 13:51:42 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.27. in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/autoload_real.php(25): require()
+#1 /home/hotlabco/gar.hotlab.com.br/application/vendor/autoload.php(22): ComposerAutoloaderInitc3c6bc03bf675eaf30c6d20c3f93e934::getLoader()
+#2 /home/hotlabco/gar.hotlab.com.br/index.php(60): require_once('/home/hotlabco/...')
+#3 {main}
+  thrown in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php on line 22
+[07-Oct-2025 13:51:45 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.27. in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/autoload_real.php(25): require()
+#1 /home/hotlabco/gar.hotlab.com.br/application/vendor/autoload.php(22): ComposerAutoloaderInitc3c6bc03bf675eaf30c6d20c3f93e934::getLoader()
+#2 /home/hotlabco/gar.hotlab.com.br/index.php(60): require_once('/home/hotlabco/...')
+#3 {main}
+  thrown in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php on line 22
+[07-Oct-2025 13:51:54 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.27. in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/autoload_real.php(25): require()
+#1 /home/hotlabco/gar.hotlab.com.br/application/vendor/autoload.php(22): ComposerAutoloaderInitc3c6bc03bf675eaf30c6d20c3f93e934::getLoader()
+#2 /home/hotlabco/gar.hotlab.com.br/index.php(60): require_once('/home/hotlabco/...')
+#3 {main}
+  thrown in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php on line 22
+[07-Oct-2025 13:52:14 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.27. in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/autoload_real.php(25): require()
+#1 /home/hotlabco/gar.hotlab.com.br/application/vendor/autoload.php(22): ComposerAutoloaderInitc3c6bc03bf675eaf30c6d20c3f93e934::getLoader()
+#2 /home/hotlabco/gar.hotlab.com.br/index.php(60): require_once('/home/hotlabco/...')
+#3 {main}
+  thrown in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php on line 22
+[07-Oct-2025 13:52:16 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.27. in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/autoload_real.php(25): require()
+#1 /home/hotlabco/gar.hotlab.com.br/application/vendor/autoload.php(22): ComposerAutoloaderInitc3c6bc03bf675eaf30c6d20c3f93e934::getLoader()
+#2 /home/hotlabco/gar.hotlab.com.br/index.php(60): require_once('/home/hotlabco/...')
+#3 {main}
+  thrown in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php on line 22
+[07-Oct-2025 13:53:32 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.27. in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/autoload_real.php(25): require()
+#1 /home/hotlabco/gar.hotlab.com.br/application/vendor/autoload.php(22): ComposerAutoloaderInitc3c6bc03bf675eaf30c6d20c3f93e934::getLoader()
+#2 /home/hotlabco/gar.hotlab.com.br/index.php(60): require_once('/home/hotlabco/...')
+#3 {main}
+  thrown in /home/hotlabco/gar.hotlab.com.br/application/vendor/composer/platform_check.php on line 22
